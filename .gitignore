@@ -1,0 +1,13 @@
+node_modules/
+bower_components/
+.idea/
+.tmp/
+dist/
+
+# Temporary gitignore entries
+# ------------------------------
+src/app/
+src/index.html
+gulp/
+test/
+.travis.yml

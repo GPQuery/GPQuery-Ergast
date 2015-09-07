@@ -1,0 +1,46 @@
+{
+  "name": "gpquery-ergast",
+  "version": "0.0.0",
+  "description": "AngularJS library for RESTful interaction with Ergast Developer API",
+  "main": "dist/gpquery-ergast.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gpquery/gpquery-ergast.git"
+  },
+  "author": "Jonathan Ho <joho@joho.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gpquery/gpquery-ergast/issues"
+  },
+  "homepage": "https://github.com/gpquery/gpquery-ergast#readme",
+  "devDependencies": {
+    "angular": "^1.4.5",
+    "del": "^2.0.1",
+    "gulp": "^3.9.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-filter": "^3.0.1",
+    "gulp-if": "^1.2.5",
+    "gulp-insert": "^0.5.0",
+    "gulp-jshint": "^1.11.2",
+    "gulp-ng-annotate": "^1.1.0",
+    "gulp-plumber": "^1.0.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^1.4.0",
+    "gulp-util": "^3.0.6",
+    "jasmine-core": "^2.3.4",
+    "jshint-stylish": "^2.0.1",
+    "karma": "^0.13.9",
+    "karma-angular-filesort": "^1.0.0",
+    "karma-jasmine": "^0.3.6",
+    "karma-phantomjs-launcher": "^0.2.1",
+    "merge-stream": "^1.0.0",
+    "phantomjs": "^1.9.18",
+    "uglify-save-license": "^0.4.1"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  }
+}

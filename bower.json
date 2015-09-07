@@ -1,0 +1,20 @@
+{
+  "name": "gpquery-ergast",
+  "version": "0.0.0",
+  "homepage": "https://github.com/gpquery/gpquery-ergast",
+  "authors": [
+    "Jonathan Ho <joho@joho.io>"
+  ],
+  "description": "AngularJS library for RESTful interaction with Ergast Developer API",
+  "main": "dist/gpquery-ergast.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+  }
+}
